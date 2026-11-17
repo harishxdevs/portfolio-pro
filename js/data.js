@@ -75,7 +75,7 @@ window.PROJECTS = [
     ],
     tags: ['HTML', 'CSS', 'JavaScript'],
     links: [
-      { label: 'Live site', url: 'https://harishxdevs.github.io/portfolio/' },
+      { label: 'Live site', url: 'https://creative-portfolio-harish.vercel.app/' },
       { label: 'Source', url: 'https://github.com/harishxdevs/portfolio' },
     ],
   },

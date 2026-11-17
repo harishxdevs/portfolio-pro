@@ -1,5 +1,7 @@
 # Harish — Portfolio (formal)
 
+**Live:** https://portfolio-pro-harish.vercel.app/ (Vercel) · creative version: https://creative-portfolio-harish.vercel.app/
+
 A clean, professional one-page portfolio suitable for job applications and client-facing use. Plain HTML, CSS and JavaScript. No build step, no runtime dependencies.
 
 The creative, themed version lives in the sibling `portfolio` folder and is linked from the Projects section here.
