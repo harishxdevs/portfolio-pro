@@ -1,0 +1,19 @@
+{
+  "name": "harish-portfolio-pro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Formal portfolio — plain HTML/CSS/JS, no build step",
+  "scripts": {
+    "dev": "npx -y serve . -l 3001",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "eslint": "^9.17.0",
+    "eslint-config-prettier": "^9.1.0",
+    "globals": "^15.14.0",
+    "prettier": "^3.4.2"
+  }
+}
